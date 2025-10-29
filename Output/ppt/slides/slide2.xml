@@ -1,2 +1,219 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><p:cSld><p:spTree><p:nvGrpSpPr><p:cNvPr id="1" name="Shape 85"/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr><p:pic><p:nvPicPr><p:cNvPr id="3" name="Picture 2"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{D55104F6-61EE-CE30-B40C-8461A9BE8BE3}"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed="rId3"/><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x="-125260" y="-476250"/><a:ext cx="9294312" cy="6096000"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom></p:spPr></p:pic><p:sp><p:nvSpPr><p:cNvPr id="86" name="Google Shape;86;p17"/><p:cNvSpPr txBox="1"><a:spLocks noGrp="1"/></p:cNvSpPr><p:nvPr><p:ph type="title"/></p:nvPr></p:nvSpPr><p:spPr><a:xfrm><a:off x="308008" y="4289700"/><a:ext cx="7696200" cy="584400"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom></p:spPr><p:txBody><a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0"><a:noAutofit/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0"><a:spcBef><a:spcPts val="0"/></a:spcBef><a:spcAft><a:spcPts val="0"/></a:spcAft><a:buNone/></a:pPr><a:r><a:rPr lang="en" dirty="0"><a:solidFill><a:schemeClr val="tx2"/></a:solidFill></a:rPr><a:t>Terraced Agriculture</a:t></a:r><a:endParaRPr dirty="0"><a:solidFill><a:schemeClr val="tx2"/></a:solidFill></a:endParaRPr></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="119" name="Google Shape;119;p17"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="3254650" y="1823325"/><a:ext cx="401100" cy="459000"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr><p:txBody><a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0"><a:noAutofit/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0"><a:spcBef><a:spcPts val="0"/></a:spcBef><a:spcAft><a:spcPts val="0"/></a:spcAft><a:buNone/></a:pPr><a:endParaRPr><a:latin typeface="Montserrat"/><a:ea typeface="Montserrat"/><a:cs typeface="Montserrat"/><a:sym typeface="Montserrat"/></a:endParaRPr></a:p></p:txBody></p:sp><p:pic><p:nvPicPr><p:cNvPr id="9" name="Picture 2" descr="500+ Ho Chi Minh City Vietnam Pictures [HD] | Download Free Images on  Unsplash"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{58868D48-3F07-2FD7-A305-2B568750C5E5}"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect="1" noChangeArrowheads="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed="rId4"><a:extLst><a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}"><a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/></a:ext></a:extLst></a:blip><a:srcRect/><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr bwMode="auto"><a:xfrm><a:off x="-427336" y="-5837522"/><a:ext cx="9596388" cy="5361272"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:extLst><a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}"><a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a14:hiddenFill></a:ext></a:extLst></p:spPr></p:pic></p:spTree></p:cSld><p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr><mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"><mc:Choice xmlns:p159="http://schemas.microsoft.com/office/powerpoint/2015/09/main" Requires="p159"><p:transition spd="slow" xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" p14:dur="2000"><p159:morph option="byObject"/></p:transition></mc:Choice><mc:Fallback><p:transition spd="slow"><p:fade/></p:transition></mc:Fallback></mc:AlternateContent></p:sld>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+    <p:cSld>
+        <p:spTree>
+            <p:nvGrpSpPr>
+                <p:cNvPr id="1" name="Shape 85" />
+                <p:cNvGrpSpPr />
+                <p:nvPr />
+            </p:nvGrpSpPr>
+            <p:grpSpPr>
+                <a:xfrm>
+                    <a:off x="0" y="0" />
+                    <a:ext cx="0" cy="0" />
+                    <a:chOff x="0" y="0" />
+                    <a:chExt cx="0" cy="0" />
+                </a:xfrm>
+            </p:grpSpPr>
+            <p:pic>
+                <p:nvPicPr>
+                    <p:cNvPr id="3" name="Picture 2">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId
+                                    xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                    id="{D55104F6-61EE-CE30-B40C-8461A9BE8BE3}" />
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvPicPr>
+                        <a:picLocks noChangeAspect="1" />
+                    </p:cNvPicPr>
+                    <p:nvPr />
+                </p:nvPicPr>
+                <p:blipFill>
+                    <a:blip r:embed="rId3" />
+                    <a:stretch>
+                        <a:fillRect />
+                    </a:stretch>
+                </p:blipFill>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="-125260" y="-476250" />
+                        <a:ext cx="9294312" cy="6096000" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst />
+                    </a:prstGeom>
+                </p:spPr>
+            </p:pic>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="86" name="Google Shape;86;p17" />
+                    <p:cNvSpPr txBox="1">
+                        <a:spLocks noGrp="1" />
+                    </p:cNvSpPr>
+                    <p:nvPr>
+                        <p:ph type="title" />
+                    </p:nvPr>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="308008" y="4289700" />
+                        <a:ext cx="7696200" cy="584400" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst />
+                    </a:prstGeom>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425"
+                        rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
+                        <a:noAutofit />
+                    </a:bodyPr>
+                    <a:lstStyle />
+                    <a:p>
+                        <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                            <a:spcBef>
+                                <a:spcPts val="0" />
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="0" />
+                            </a:spcAft>
+                            <a:buNone />
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="en" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx2" />
+                                </a:solidFill>
+                            </a:rPr>
+                            <a:t>Terraced Agriculture</a:t>
+                        </a:r>
+                        <a:endParaRPr dirty="0">
+                            <a:solidFill>
+                                <a:schemeClr val="tx2" />
+                            </a:solidFill>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="119" name="Google Shape;119;p17" />
+                    <p:cNvSpPr txBox="1" />
+                    <p:nvPr />
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="3254650" y="1823325" />
+                        <a:ext cx="401100" cy="459000" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst />
+                    </a:prstGeom>
+                    <a:noFill />
+                    <a:ln>
+                        <a:noFill />
+                    </a:ln>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425"
+                        rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
+                        <a:noAutofit />
+                    </a:bodyPr>
+                    <a:lstStyle />
+                    <a:p>
+                        <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                            <a:spcBef>
+                                <a:spcPts val="0" />
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="0" />
+                            </a:spcAft>
+                            <a:buNone />
+                        </a:pPr>
+                        <a:endParaRPr>
+                            <a:latin typeface="Montserrat" />
+                            <a:ea typeface="Montserrat" />
+                            <a:cs typeface="Montserrat" />
+                            <a:sym typeface="Montserrat" />
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:pic>
+                <p:nvPicPr>
+                    <p:cNvPr id="9" name="Picture 2"
+                        descr="500+ Ho Chi Minh City Vietnam Pictures [HD] | Download Free Images on  Unsplash">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId
+                                    xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                    id="{58868D48-3F07-2FD7-A305-2B568750C5E5}" />
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvPicPr>
+                        <a:picLocks noChangeAspect="1" noChangeArrowheads="1" />
+                    </p:cNvPicPr>
+                    <p:nvPr />
+                </p:nvPicPr>
+                <p:blipFill>
+                    <a:blip r:embed="rId4">
+                        <a:extLst>
+                            <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                <a14:useLocalDpi
+                                    xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"
+                                    val="0" />
+                            </a:ext>
+                        </a:extLst>
+                    </a:blip>
+                    <a:srcRect />
+                    <a:stretch>
+                        <a:fillRect />
+                    </a:stretch>
+                </p:blipFill>
+                <p:spPr bwMode="auto">
+                    <a:xfrm>
+                        <a:off x="-427336" y="-5837522" />
+                        <a:ext cx="9596388" cy="5361272" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst />
+                    </a:prstGeom>
+                    <a:noFill />
+                    <a:extLst>
+                        <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                            <a14:hiddenFill
+                                xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                    <a:srgbClr val="FFFFFF" />
+                                </a:solidFill>
+                            </a14:hiddenFill>
+                        </a:ext>
+                    </a:extLst>
+                </p:spPr>
+            </p:pic>
+        </p:spTree>
+    </p:cSld>
+    <p:clrMapOvr>
+        <a:masterClrMapping />
+    </p:clrMapOvr>
+    <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+        <mc:Choice xmlns:p159="http://schemas.microsoft.com/office/powerpoint/2015/09/main"
+            Requires="p159">
+            <p:transition spd="slow"
+                xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" p14:dur="2000">
+                <p159:morph option="byObject" />
+            </p:transition>
+        </mc:Choice>
+        <mc:Fallback>
+            <p:transition spd="slow">
+                <p:fade />
+            </p:transition>
+        </mc:Fallback>
+    </mc:AlternateContent>
+</p:sld>
