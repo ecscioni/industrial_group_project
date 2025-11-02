@@ -39,6 +39,6 @@ Thumbs.db
 *.key
 
 # Data 
-data/
-reports/
+/data/
+/reports/
 
